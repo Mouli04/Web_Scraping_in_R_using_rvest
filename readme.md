@@ -12,7 +12,7 @@ About rvest package
 
 rvest is part of `tidyverse package`. It helps you scrape (or harvest) data from web pages. It is designed to work with `magrittr` to make it easy to express common web scraping tasks, inspired by libraries like `beautiful soup` and `RoboBrowser`.
 
-know more about rvest by visiting below links
+know more about rvest by visiting below links   
 [https://rvest.tidyverse.org/](https://rvest.tidyverse.org/)  
 [https://github.com/tidyverse/rvest/](https://github.com/tidyverse/rvest/)
 
