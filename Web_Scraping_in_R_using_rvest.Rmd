@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-In this tutorial we are going to web scrape <https://the-internet.herokuapp.com/login> website so lets gets started.
+In this tutorial we are going to web scrape <https://the-internet.herokuapp.com/login> website. So lets gets started.
 
 ## About rvest package
 
